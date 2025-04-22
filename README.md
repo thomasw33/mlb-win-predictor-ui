@@ -75,8 +75,9 @@ streamlit run app.py
 - Step 3.5: Troubleshooting Streamlit:
   
 If you get an error when running the app, run this line:
+
 $env:Path += ";$HOME\AppData\Roaming\Python\Python311\Scripts"
-replacing Python311 with whatever version of Python you have installed.
+(replacing Python311 with whatever version of Python you have installed)
 
 -Step 4: Run the Streamlit App again (If necessary):
 
