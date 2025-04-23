@@ -19,7 +19,7 @@ This project uses multiple regression models and an interactive UI to predict ML
 - First, I will show you how to run the model in Google Colab to see the results of the models.
 
 - Open the Google Colab Notebook. The link to the notebook is here:
-https://colab.research.google.com/drive/1GhXVJ9cfeJf8UxOaMlMILI7NHO3Mdlk5?usp=sharing
+[https://colab.research.google.com/drive/1GhXVJ9cfeJf8UxOaMlMILI7NHO3Mdlk5?usp=sharing](https://colab.research.google.com/drive/1GhXVJ9cfeJf8UxOaMlMILI7NHO3Mdlk5?usp=sharing)
 
 - Upload CSV Files:
   
